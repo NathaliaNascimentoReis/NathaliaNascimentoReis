@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=js,nodejs,prisma,html,css,express"/>
 <img src="https://skillicons.dev/icons?i=figma,vscode,postgres,postman,git,github" />
 
-### About me ###
+### About me 🥀･*:.｡.･ ###
 - 🔭 Open to work opportunities
 - 👯 Looking to collaborate on Front-End or/and Back-end
 - 🗨️ Contact me: **nryynath@gmail.com**
