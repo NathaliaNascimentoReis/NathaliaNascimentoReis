@@ -21,7 +21,7 @@
 ### About me 🥀･*:.｡.･ ###
 - 🔭 Open to work opportunities
 - 👯 Looking to collaborate on Front-End or/and Back-end
-- 🗨️ Contact me: **nryynath@gmail.com**
+- 🗨️ Contact me: **nathalianascimentoreis@gmail.com**
 
 ### ✨ Projects I've contributed to
 🔹 [Projeto Minz](https://github.com/Melfreitass/projeto-minz.git)
