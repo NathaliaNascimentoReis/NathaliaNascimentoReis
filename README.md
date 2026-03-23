@@ -24,6 +24,8 @@
 - 🗨️ Contact me: **nathalianascimentoreis@gmail.com**
 
 ### ✨ Projects I've contributed to
+🔹 [Projeto BackEnd Integrando APIs](https://github.com/vinibertunho/atividade-POO-back-end)
+
 🔹 [Projeto Minz](https://github.com/Melfreitass/projeto-minz.git)
 
 🔹 [Back-End Projeto Final](https://github.com/beatriztsumoto/Back-End-Projeto-final.git)
