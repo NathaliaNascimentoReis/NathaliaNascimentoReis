@@ -28,6 +28,8 @@
 
 🔹 [Projeto Minz](https://github.com/Melfreitass/projeto-minz.git)
 
+🔹 [Hotel API](https://github.com/nunezada08/hotelAPI.git)
+
 🔹 [Back-End Projeto Final](https://github.com/beatriztsumoto/Back-End-Projeto-final.git)
 
 🔹 [Front-End Projeto Final](https://github.com/beatriztsumoto/Front-End-Projeto-Final.git)
