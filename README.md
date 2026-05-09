@@ -15,7 +15,7 @@
 </section>
 
 ### .｡.:*✧ 🧩 I'm currently learning and using these languages and technologies: ###
-<img src="https://skillicons.dev/icons?i=js,nodejs,prisma,html,css,express"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,prisma,html,css,express,react"/>
 <img src="https://skillicons.dev/icons?i=figma,vscode,postgres,postman,git,github" />
 
 ### About me 🥀･*:.｡.･ ###
